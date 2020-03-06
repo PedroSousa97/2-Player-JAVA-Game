@@ -24,7 +24,7 @@ The game has two difficulty levels, the normal one, and the hard level in which 
 
 #### Items:
 
-There are items in the game helps the player win/lose:
+There are items in the game that helps the player win/lose:
 * The boot is an earning-points item. Every time the player collects a boot, the player’s score will increase;
 * The log and the rock are losing-life items. The player must avoid touching these obstacles, otherwise the character will lose a life;
 * The “special-attack” rock is used for attacking the other player’s character. This feature is available when the player earned at least 10 points (boots);
