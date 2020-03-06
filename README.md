@@ -33,5 +33,5 @@ There are items in the game that helps the player win/lose:
 ## Authors
 
 * **Pedro Henrique Santos Sousa** - *Main developer*
-* **Irina Vasilița
-* **Cristóvão Spínola Gouveia
+* **Irina Vasilița**
+* **Cristóvão Spínola Gouveia**
